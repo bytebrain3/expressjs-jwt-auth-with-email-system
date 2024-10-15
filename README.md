@@ -1,5 +1,5 @@
 
-#FULL  AUTHENTICATION JWT API WITH EXPRESS JS
+# FULL  AUTHENTICATION JWT API WITH EXPRESS JS
 
 This project is a basic email password authentication system built with Node.js and MongoDB. It provides essential user management functionality, including user registration, login, logout, account verification, password reset, and change password features. Email notifications are also integrated for verification, password reset, and account updates.
 
